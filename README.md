@@ -24,7 +24,7 @@ Link For the You tube video : https://youtu.be/_DyF_ocdIf4
 
 # Deployemnt :
 The web app has been build using basic HTML, CSS, Javascript, Flask and bootstrap.
-![Final_Website]([Screenshot 2022-10-28 201338.jpg](https://github.com/sandeep200109/House-Price-Prediction/blob/main/Screenshot%202022-10-28%20201338.jpg))
+![Final_Website](https://github.com/sandeep200109/House-Price-Prediction/blob/main/Screenshot%202022-10-28%20201338.jpg)
 
 # Future Scope :
 - Use multiple Algorithms
