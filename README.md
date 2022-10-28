@@ -24,7 +24,7 @@ Link For the You tube video : https://youtu.be/_DyF_ocdIf4
 
 # Deployemnt :
 The web app has been build using basic HTML, CSS, Javascript, Flask and bootstrap.
-![Final_Website](https://user-images.githubusercontent.com/75796904/130605278-7b1d9c54-6c73-4e69-8cdc-056ad0c93a45.png)
+![Final_Website](Screenshot 2022-10-28 201338.jpg)
 
 # Future Scope :
 - Use multiple Algorithms
