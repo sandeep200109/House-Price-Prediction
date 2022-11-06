@@ -8,6 +8,7 @@ app = Flask(__name__)
 data= pd.read_csv('Cleaned_data.csv')
 pipe = pickle.load(open("NewRidgeModel.pk1","rb"))
 
+#print(pickle.load(open("RidgeModel.pk1","rb")))
 
 @app.route('/')
 def index():
@@ -25,8 +26,8 @@ def predict():
     print(location, bhk, bath, sqft)
     input = pd.DataFrame([[location,sqft,bath,bhk]],columns=['location', 'total_sqft', 'bath', 'bhk'])
     prediction = pipe.predict(input)[0] * 1e5
-
     return str(np.round(prediction,2))
-
+    #return "fine"
+    
 if __name__=="__main__":
     app.run(debug=True, port=5001)
