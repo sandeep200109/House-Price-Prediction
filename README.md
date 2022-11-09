@@ -31,5 +31,7 @@ The web app has been build using basic HTML, CSS, Javascript, Flask and bootstra
 - Optimize Flask app.py
 - Update the Front-End
 
-# For detail Knowledge For model :
-visit this blog: https://housepricepredictionproject.blogspot.com/2021/08/house-price-prediction-ml-model-webapp.html
+Group Members Name: 
+Sandeep Sahani
+Uttam Pandey
+Dhruyash Mahale
