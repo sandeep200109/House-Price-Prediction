@@ -22,7 +22,7 @@ Link For the You tube video : https://www.youtube.com/channel/UCxhbaFMb5Wplejkaa
 
 - The main packages used are numpy, pandas, matplotlib, seaborn, pickle-mixin and sklearn.
 
-# Deployemnt :
+# Deployement :
 The web app has been build using basic HTML, CSS, Javascript, Flask and bootstrap.
 ![Final_Website](https://github.com/sandeep200109/House-Price-Prediction/blob/main/Image.jpg)
 
